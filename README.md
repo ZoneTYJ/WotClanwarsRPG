@@ -1,2 +1,2 @@
-# WotClanwarsRPG
+# WotClanwarsSPG
 tree destruction
